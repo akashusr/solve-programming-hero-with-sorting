@@ -16,18 +16,29 @@ Complete project tutorial showing different applications of Document Object Mode
 
 ## Table of Contents
 
-- [How to run](#how-to-run)
+- [How to run practice code](#how-to-run-practice-code)
+- [How to run solve code](#how-to-run-solve-code)
 - [Contact](#contact)
 
 <!-- HOW TO RUN -->
 
-## How to run
+## How to run practice code
 
 Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
    git clone https://github.com/learnwithsumit/hack-programming-hero.git
+   ```
+2. Open index.html file with VS Code live server plugin.
+
+## How to run solve code
+
+Please follow the below instructions to run this project in your machine:
+
+1. Clone this repository
+   ```sh
+   git clone https://github.com/akashusr/solve-programming-hero-with-sorting.git
    ```
 2. Open index.html file with VS Code live server plugin.
 
